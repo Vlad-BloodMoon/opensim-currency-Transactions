@@ -1,5 +1,5 @@
 # opensim-currency-Transactions-History
-Ability to display transaction history for grid administrators and users
+Ability to display transaction history for grid administrators and users on Opensimulator 
 
 1/Page de transactions global pour Administrateur protégée par un mot de passe 
  English : Transaction history display page by avatar
